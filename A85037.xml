@@ -1,0 +1,663 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters of His Excellencie Sir Thomas Fairfax, sent to both Houses of Parliament; with the humble advice of the Councel of Warre (held at St. Edmunds Bury in Suffolke, Satterday 29. May, 1647.) upon the votes of both Houses, sent to the army for their disbanding. Also, the petition of the private souldierie of the army, both horse and foot, presented (to His Excellencie at the same Councell of Warre) by their several adjutators: with the names of the officers that were then present. Published at the instant desire of the army, to prevent mis-understandings, and to set forth their candid desire of the peace, and welfare of the Parliament, and this kingdome; as also, concerning the reliefe of Ireland.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85037</idno>
+            <idno type="STC">Wing F248</idno>
+            <idno type="STC">Thomason E391_2</idno>
+            <idno type="STC">ESTC R201546</idno>
+            <idno type="EEBO-CITATION">99862045</idno>
+            <idno type="PROQUEST">99862045</idno>
+            <idno type="VID">114194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114194)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E391[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters of His Excellencie Sir Thomas Fairfax, sent to both Houses of Parliament; with the humble advice of the Councel of Warre (held at St. Edmunds Bury in Suffolke, Satterday 29. May, 1647.) upon the votes of both Houses, sent to the army for their disbanding. Also, the petition of the private souldierie of the army, both horse and foot, presented (to His Excellencie at the same Councell of Warre) by their several adjutators: with the names of the officers that were then present. Published at the instant desire of the army, to prevent mis-understandings, and to set forth their candid desire of the peace, and welfare of the Parliament, and this kingdome; as also, concerning the reliefe of Ireland.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>8, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, at the Blew Anchor in Cornhill, neere the Exchange,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Military discharge --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114194:1" rendition="simple:additions"/>
+            <p>TWO LETTERS Of His Excellencie Sir Thomas Fairfax, SENT To both Houſes of PARLIAMENT; With the humble Advice of the Councel of Warre (held at St. <hi>Edmonds Bury</hi> in <hi>Suffolke,</hi> Satterday 29. <hi>May,</hi> 1647.) upon the Votes of both Houſes, ſent to the Army for their disbanding.</p>
+            <p>Alſo, the Petition of the private Souldierie of the Army, both Horſe and Foot, preſented (to His Excellencie at the ſame Councell of Warre) by their ſeverall Adjutators: With the names of the Officers that were then preſent.</p>
+            <p>
+               <hi>Publiſhed at the inſtant deſire of the Army, to prevent miſ-un<g ref="char:EOLhyphen"/>derſtandings, and to ſet forth their candid deſire of the peace and welfare of the Parliament, and this Kingdome; as alſo, concerning the reliefe of</hi> Ireland.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>George Whittington,</hi> at the Blew Anchor in <hi>Cornhill,</hi> neere the Exchange, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114194:2"/>
+            <pb facs="tcp:114194:2"/>
+            <head>A Copy of a Letter from his Excellencie Sir <hi>Thomas Fairfax</hi> to the Right Honourable, the Earl of <hi>Mancheſter.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YOur Lordſhips Letter of the 28. I received yeſterday, with the Votes of both Houſes incloſed therein. Before the receipt thereof, I had called the Officers unto a generall Councel of War, to aw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe concerning the better tranſaction of the buſineſſe, and prev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntion of all inconveniencies there<g ref="char:EOLhyphen"/>upon; and when they were in conſultation, I communicated your Lordſhips Letter, (and the Votes therewith ſent) unto them. After much time ſpent in debate thereof, this incloſed was delivered unto me by the Officers, as the Reſult of the Councell of War; which being of very great concernment, I held it my duty to haſten unto your Lordſhips. It is no ſmall griefe of heart unto me, that there ſhould be any diſſatisfact<g ref="char:EOLhyphen"/>ions betwixt the Parliament and the Army, and that the late V<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s did not give ſatisfaction. I beſeech God to direct your Lordſhips to proceed with wiſdome, that things may be de<g ref="char:EOLhyphen"/>termined in love, and this poore Kingdome free from further diſtraction; which is the earneſt deſire of</p>
+            <closer>
+               <signed>Your Lordſhips moſt humble ſervant <hi>T. FAIRFAX.</hi>
+               </signed>
+               <dateline>
+                  <hi>Bury</hi> 
+                  <date>
+                     <hi>May</hi> 30. 1647.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>For the ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ht Honourable the Earl of</hi> Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſter, <hi>Speaker of the Houſe of Peers, pro tempore.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:114194:3"/>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>HAving called the Officers of the Army to St. Edmunds Bu<g ref="char:EOLhyphen"/>ry, I communicated unto them yeſterday the Votes of both Houſes, and a Letter of the Houſe of Peeres ſent therewith, con<g ref="char:EOLhyphen"/>cerning the disbanding of the Army; After long conſultation had thereof, this encloſed was delivered unto me, as the Reſult of the Councell of Warre (where the Officers were very many and unanimous) which being of importance, I held it my duty to ha<g ref="char:EOLhyphen"/>ſten the ſame unto you, being much perplexed in my thoughts that diſ-ſatisfactions betwixt the Parliament and the Army ſhould rather increaſe, then leſſen; I intreat you, that there may bee wayes of love and compoſure thought upon, <hi>I</hi> ſhall doe my endea<g ref="char:EOLhyphen"/>uours, though I am forct to yeeld to ſomething out of order, to keepe the Army from diſorder, or worſe inconveniencies, I de<g ref="char:EOLhyphen"/>ſire you to take ſome ſpeedy reſolution for the compoſing of things, whereby the Kingdome may bee happy in a timely deliverance from further diſtraction: for the effecting whereof, I could bee conte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to be a ſacrifice, as the laſt ſervice you can have from</p>
+            <closer>
+               <signed>Your moſt faithfull and humble ſervant, T. FAIRFAX.</signed>
+               <dateline>
+                  <hi>Burie</hi> 
+                  <date>
+                     <hi>May 30. 1647.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>For the Honourable</hi> William Lenthal <hi>Eſquire, Speaker of the honoura<g ref="char:EOLhyphen"/>ble Houſe of Commons.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:114194:3"/>
+            <head>To his Excellency Sir <hi>Thomas Fairfax</hi> Knight, Commander in Chiefe of the Parliaments Forces.</head>
+            <head type="sub">The Opinion and humble Adviſe of the Councell of Warre, con<g ref="char:EOLhyphen"/>vened at <hi>Bury,</hi> Saterday <hi>29. May. 1647.</hi> In relation to the Votes of Parliament, communicated to us by your Excellency and the deſirs of our advice thereof.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p n="1">1. THat upon the reports come to all quarters of the Army concerning the Votes and proceedings of the Houſe <hi>May</hi> 21. As alſo of thoſe on Tueſday, <hi>May</hi> 25. we find the ge<g ref="char:EOLhyphen"/>nerallity of the Army (as we are our ſelves) much unſatisfied in the one, and ſomething amazed and ſtartled at the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, the firſt Votes (of Friday) comming much ſhort of ſatisfaction as to the grievances of the Army then reported to the Houſe and not taking any notice at all of ſome that were moſt materiall, &amp; the latter (of Tueſday) importing a reſolution ſuddenly to diſ<g ref="char:EOLhyphen"/>band the Army by peace-meale, before equall ſatisfaction be given to the whole in any of the grievances, or ſo much as any conſideration had of ſome others moſt materiall: And alſo be<g ref="char:EOLhyphen"/>fore any effectuall performance of that ſatisfaction with the Votes of Friday ſeemed to promiſe as to ſome of the grievan<g ref="char:EOLhyphen"/>ces, all which we ſhall be readie (upon a little time given us) to repreſent to your Excellency, more diſtinctly and in par<g ref="char:EOLhyphen"/>ticular.</p>
+            <p n="2">2. That the ſaid diſtraction, and the iealouſies occaſioned up<g ref="char:EOLhyphen"/>pon the ſame proceeding, as we feare, and ſome effects alrea<g ref="char:EOLhyphen"/>dy appearing doe find, may unhappily produce dangerous diſturbances and tumultuous actings amongſt ſeverall parts of the Army, as they now lie diſperſed and remote from the Head quarters, eſpecially amongſt thoſe Regiments whoſe prin<g ref="char:EOLhyphen"/>cipall Officers, by neglecting or diſſerting their Soldiers in in their neceſſary concernments or iuſt grievances, have diſob<g ref="char:EOLhyphen"/>leiged their Soldiers, and loſt their intereſt with them in ſo much as ſuch Officers are in ſome ſort forced to withdraw from their charges, and can ſcarce with ſafety come at them, &amp; to prevent the inconveniencies or ill conſequences which ſuch diſturbed or tumultuous actings might produce either to the countrys where the Army quarters or to the kingdom,
+<pb n="6" facs="tcp:114194:4"/>
+We humbly adviſe your Excellency without delay, to draw the Arm (or at leaſt thoſe parts thereof that are not fixt to certain Quarters upon particular du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y) unto a cloſer poſture of Quarters, ſo as each Regiment, Troop, and Company, may lye under the view, and over-ſight of their reſpective Offi<g ref="char:EOLhyphen"/>cers that are left with them, and all of them under a near<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r view of, and correſpondencie wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the Head-quarter, which may thus have a readier influence upon all, for the better preſerving of good Order, and prevention of inconvenien<g ref="char:EOLhyphen"/>ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and in ſuch poſture for the Countries eaſe, to remove and ſhift the whole Quarter one a week at leaſt, till up<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n fur<g ref="char:EOLhyphen"/>ther ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isfaction, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Army may be quie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, and orderly diſ<g ref="char:EOLhyphen"/>banded.</p>
+            <p n="3">3. That upon the ſame diſſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>faction and jealouſies we find an extream earneſtn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, and violent properſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> among the ſouldiers to a general Randezvorz<g ref="char:punc">▪</g> and we veril<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believe, that the fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt at<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>empt to d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd any one Re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ment, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore equall ſatisfaction to all, and aſſura<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce againſt th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe things they have cauſe to fear, wil <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them all to draw toge<g ref="char:EOLhyphen"/>ther and Randezvouz of themſelves, as it were upon in Al<g ref="char:EOLhyphen"/>larme. And to prevent the into ve<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s or il conſequen<g ref="char:EOLhyphen"/>ces bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h to theſe Countries and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kingdom, of any ſuch tumultuous or confuſed draw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to a Randezvouz without order, we humbly adviſe your Excelle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cy wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout delay, af<g ref="char:EOLhyphen"/>ter the contracting of quarters, to order a g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ral Randez<g ref="char:EOLhyphen"/>vouze for thoſe parts of the Army, whoſe quar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers ſhal b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo contracted: And this we adviſe and d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſire the rather becauſe of the ſcandalous ſuggeſtions of ſome, importi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g as if the late diſcontents appearing in the Army, and the repreſentations of grievances from the Army, were not really in or from the body of the Souldiery, but a m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere deluſion or appearance made by the contrivance and artifice of ſome factious Offi<g ref="char:EOLhyphen"/>cers, or other perſons in the Army, the tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h and falſhood whereof, as alſo the true temper and diſpoſition of the Army, your Excellencie, and all other, may moſt clearly diſcover <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y ſuch a generall Randezvouz (without the delay or trou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of going to every Regimen a part as they now lye) the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>my may more certainly underſtand what they may ex<g ref="char:EOLhyphen"/>pect
+<pb n="7" facs="tcp:114194:4"/>
+from the Parliament, and both Parliament and King<g ref="char:EOLhyphen"/>dome what to judge and truſt to, concerning the Army, and to that purpoſe at ſuch a Randezvouz, wee ſha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l (wee hope through the grace of God) diſcharge our <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Parlia<g ref="char:EOLhyphen"/>ment and Kingdome, as well as to your Excellencie and the Armie, and demonſtra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that the good and quiet of the king<g ref="char:EOLhyphen"/>dome, is much dearer to us then any particular concernment of our own. Theſe two laſt things we humbly adviſe and de<g ref="char:EOLhyphen"/>ſire may be done without delay, or that otherwiſe me may be held acquitted from all inconveniencies that may enſue in our ſeveral charges.</p>
+            <p n="4">4. Since (beſides the d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſatisfaction to the Army hitherto, in the points of grievances, and the defect of aſſurance, as to ſeve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all of theſe things promiſed for our ſatisfaction, and be<g ref="char:EOLhyphen"/>ſides the jealouſies occaſioned upon the Votes of Tueſday laſt and a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l held conſequences which may follow in proceeding thereupon) That courſe of disbanding the Army by piece<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e before the ſatisfaction intended, be performed equally to the whole, ſeemes ſomething ſtrange and unuſuall (not pra<g ref="char:EOLhyphen"/>ctiſed in disbanding of other Armies, as Major Gen. <hi>Maſſies</hi> Brig<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de, he <hi>Scots Army</hi> &amp;c. or uſed that we have heard of, by any States towards any Army that was ever accounted faithfull; We humbly deſire your Excellencie by an effectu<g ref="char:EOLhyphen"/>all Letter to move the Parliament for this, as that which we humbly offer &amp; do beg at the<g ref="char:cmbAbbrStroke">̄</g>, both for their own honor, in re<g ref="char:EOLhyphen"/>la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to wha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> future Armies they may have occaſion to im<g ref="char:EOLhyphen"/>ploy, for the reputation of your Excellencie, and this Armie, aſ well as for its better ſatisfaction, and as they render the good and aſſured quie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his Kingdome, or the effectuall re<g ref="char:EOLhyphen"/>liefe and ſaving of <hi>Ireland,</hi> That they would be pleaſed to re<g ref="char:EOLhyphen"/>ſume the conſidera<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of things voted on Tueſday laſt, and to ſuſpend any preſent proceeding thereupon; as alſo to re<g ref="char:EOLhyphen"/>ſume the grievances of the Army, together with the things propoſed in the concluſion of the Narrative from the Offi<g ref="char:EOLhyphen"/>cer, and to give ſatisfaction, or at leaſt ſome reſolution to each of them, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that they would not think it fit to put that temptation, thoſe jealouſies, and that diſhonour upon the Ar<g ref="char:EOLhyphen"/>mie<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:114194:5"/>Whereas, what wee here deſire your Excellency to move may be ſaid, if admitted into conſideration, to tend to delay the reliefe of <hi>Ireland.</hi>
+            </p>
+            <p n="1">1. We find moſt clearly, that the great hopes ſuggeſted to the Parliament, of the ſupply of that ſervice in that way at preſent intended, will prove as to any further expectation out of this Army, but vain and deluſive, as the loud noyſe of ſo many powerfull Officers, with 50 Companies of Foot, &amp; ten of horſe, ſo long ſince ingaged for that ſervice have alrea<g ref="char:EOLhyphen"/>dy proved, and if herein our judgment be not credited, wee have yet diſcharged our duty to the Parliament, and both Kingdomes in declaring it.</p>
+            <p n="2">2. We cannot but for our owne, and the Armies further diſcharge, and clearing, declare, That if the Parliament had not been abuſed by many of thoſe they have employed, and intruſted for the promotion of that ſervice, and had not been by ſuch mens falſe informations, or miſrepreſentations con<g ref="char:EOLhyphen"/>cerning the Army, or otherwiſe diverted from the conſide<g ref="char:EOLhyphen"/>ration of or from giving reaſonable ſatisfaction to the Army in theſe things propoſed by the generality of the Officers at the firſt meeting at <hi>Walden</hi> in <hi>March</hi> laſt, in order to that ſervice, and had not by like miſchievous practiſes of ſuch in<g ref="char:EOLhyphen"/>cendiaries been ſince then moved and drawn to ſuch things, and in ſuch a ſeries and ſucceſſion, as have conduced to mul<g ref="char:EOLhyphen"/>tiply diſcontents, diſobligations, and provocations upon the Army, (wee ſay had it not beene for ſuch perſons and ſuch things) we are confident might have had (if they had plea<g ref="char:EOLhyphen"/>ſed) an Army entire, and ready formed under their old Of<g ref="char:EOLhyphen"/>ficers, and Conduct, to have engaged for that ſervice, having found a juſt conſideration for the ſervices paſt, and aſſurance of pay and ſubſiſtence in that to come.</p>
+         </div>
+         <div type="list">
+            <pb facs="tcp:114194:5"/>
+            <head>Saturday the 29 of May 1647. At A Councell of Warre held at St. Edmunds Bury, there were preſent</head>
+            <list>
+               <item>
+                  <hi>Commiſſary Generall Ireton.</hi>
+               </item>
+               <item>
+                  <hi>Col. Whaley,</hi>
+               </item>
+               <item>
+                  <hi>Col. Rich.</hi>
+               </item>
+               <item>
+                  <hi>Coll. Sir Hardreſſe Waller</hi>
+               </item>
+               <item>
+                  <hi>Col. Hughſon.</hi>
+               </item>
+               <item>
+                  <hi>Col. Ok<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</hi>
+               </item>
+               <item>
+                  <hi>Col. Lilburn</hi>
+               </item>
+               <item>
+                  <hi>Liev. Col. Jackson.</hi>
+               </item>
+               <item>
+                  <hi>Lieu. Colonel Pride,</hi>
+               </item>
+               <item>
+                  <hi>Lieu. Col. Read.</hi>
+               </item>
+               <item>
+                  <hi>L. Col. Salm<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi>
+               </item>
+               <item>
+                  <hi>L.</hi> C. <hi>Iubs,</hi>
+               </item>
+               <item>
+                  <hi>Major Di<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>borow.</hi>
+               </item>
+               <item>
+                  <hi>Major R<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad,</hi>
+               </item>
+               <item>
+                  <hi>Maj. Huntington.</hi>
+               </item>
+               <item>
+                  <hi>Ma. Tomlinſon.</hi>
+               </item>
+               <item>
+                  <hi>Maj. Swallow.</hi>
+               </item>
+               <item>
+                  <hi>Maj. Horton.</hi>
+               </item>
+               <item>
+                  <hi>Maj. Goodday.</hi>
+               </item>
+               <item>
+                  <hi>Maj. Smith.</hi>
+               </item>
+               <item>
+                  <hi>Maj. Cow<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </item>
+               <item>
+                  <hi>Maj. Wade.</hi>
+               </item>
+               <item>Cap. <hi>Jenkin.</hi>
+               </item>
+               <item>Cap. <hi>Lilborn.</hi>
+               </item>
+               <item>Cap. <hi>Pritty.</hi>
+               </item>
+               <item>Cap. <hi>Morgan.</hi>
+               </item>
+               <item>Cap. <hi>Grove</hi>
+               </item>
+               <item>Cap. <hi>Cannon.</hi>
+               </item>
+               <item>Cap. <hi>Piteford.</hi>
+               </item>
+               <item>Cap. <hi>Dale</hi>
+               </item>
+               <item>Cap. <hi>H<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Cap. <hi>Hawes.</hi>
+               </item>
+               <item>Cap. <hi>Bethel.</hi>
+               </item>
+               <item>Cap. <hi>Coleman.</hi>
+               </item>
+               <item>Cap. <hi>Laton.</hi>
+               </item>
+               <item>Cap. <hi>White.</hi>
+               </item>
+               <item>Cap. <hi>Highfield.</hi>
+               </item>
+               <item>Cap. <hi>Rainborow.</hi>
+               </item>
+               <item>Cap. <hi>Lee,</hi>
+               </item>
+               <item>Cap. <hi>Rolph.</hi>
+               </item>
+               <item>Cap. <hi>Spooner.</hi>
+               </item>
+               <item>Cap. <hi>Orpin.</hi>
+               </item>
+               <item>Cap. <hi>Clark.</hi>
+               </item>
+               <item>Cap. <hi>Hoddin.</hi>
+               </item>
+               <item>Cap. <hi>Stodder.</hi>
+               </item>
+               <item>Cap. <hi>Ask,</hi>
+               </item>
+               <item>Cap. <hi>Holmes.</hi>
+               </item>
+               <item>Cap. <hi>Tolhurſt.</hi>
+               </item>
+               <item>Cap. <hi>Gougff.</hi>
+               </item>
+               <item>Cap. <hi>Grigſon.</hi>
+               </item>
+               <item>Cap. <hi>Lago.</hi>
+               </item>
+               <item>Cap. <hi>Davies.</hi>
+               </item>
+               <item>Cap. <hi>Toppington.</hi>
+               </item>
+               <item>Cap. <hi>Brafield.</hi>
+               </item>
+               <item>Cap. <hi>Lieu. Kirby.</hi>
+               </item>
+               <item>Cap. <hi>L. W<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ington.</hi>
+               </item>
+               <item>Cap. <hi>L. A<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </item>
+               <item>Cap. <hi>L. Howes.</hi>
+               </item>
+               <item>Cap. <hi>L. Knight.</hi>
+               </item>
+               <item>Cap. <hi>L. Arnop.</hi>
+               </item>
+               <item>
+                  <hi>Liev. Scotton.</hi>
+               </item>
+               <item>L. <hi>Cowel.</hi>
+               </item>
+               <item>L. <hi>Sh<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </item>
+               <item>L. <hi>Enſer.</hi>
+               </item>
+               <item>L. <hi>Barton,</hi>
+               </item>
+               <item>L. <hi>Hooker.</hi>
+               </item>
+               <item>L. <hi>Miller.</hi>
+               </item>
+               <item>L. <hi>White.</hi>
+               </item>
+               <item>L. <hi>Heydon.</hi>
+               </item>
+               <item>L. <hi>Phillips.</hi>
+               </item>
+               <item>L. <hi>Wheeler.</hi>
+               </item>
+               <item>L. <hi>Singleton.</hi>
+               </item>
+               <item>L. <hi>Gough</hi>
+               </item>
+               <item>L. <hi>Morgan</hi>
+               </item>
+               <item>L. <hi>Topping</hi>
+               </item>
+               <item>L. <hi>Erwood</hi>
+               </item>
+               <item>L. <hi>Hawes</hi>
+               </item>
+               <item>L. <hi>Axiell</hi>
+               </item>
+               <item>L. <hi>Baber,</hi>
+               </item>
+               <item>
+                  <hi>Cornet Moore.</hi>
+               </item>
+               <item>
+                  <hi>C. Southwood</hi>
+               </item>
+               <item>
+                  <hi>C. Baker</hi>
+               </item>
+               <item>
+                  <hi>C. Iennings</hi>
+               </item>
+               <item>
+                  <hi>C. Buſh</hi>
+               </item>
+               <item>
+                  <hi>C. Warren</hi>
+               </item>
+               <item>
+                  <hi>C. Gr<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>e</hi>
+               </item>
+               <item>
+                  <hi>C. Eſſex.</hi>
+               </item>
+               <item>Enſigne <hi>Pearth<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Wright</hi>
+               </item>
+               <item>
+                  <hi>E. Gregory</hi>
+               </item>
+               <item>
+                  <hi>E. Campfield</hi>
+               </item>
+               <item>
+                  <hi>E. <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>wlins</hi>
+               </item>
+               <item>
+                  <hi>E. Nicolas.</hi>
+               </item>
+               <item>Quartermaſter <hi>Savage,</hi>
+               </item>
+               <item>
+                  <hi>Q. Warren</hi>
+               </item>
+               <item>
+                  <hi>Q. Hunt</hi>
+               </item>
+               <item>
+                  <hi>Q. Sanders</hi>
+               </item>
+               <item>
+                  <hi>Quartermaſter Arch<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:114194:6"/>
+            <head>To his Excellency Sir <hi>Thomas Fairfax,</hi> Knight, Captaine, Generall of the forces ray<g ref="char:EOLhyphen"/>ſed by the Authority of Parliament.</head>
+            <head type="sub">The humble Petition of the Souldiers of the Army, preſented to his Excellency at a Councel of Warre, held at St. Edmuns<g ref="char:EOLhyphen"/>burye on Saturday <hi>29</hi> May <hi>1647,</hi>
+            </head>
+            <p>Humbly Sheweth,</p>
+            <p>THat we yovr Petitioners conſidering the late Orders for disbanding the Army without redreſing our grievances, vindicating the Army, or calling to accompt ſuch perſons who have been intenders contrivers, and promoters of our deſtruction which (being but reaſonable) we humbly con<g ref="char:EOLhyphen"/>ceive we may juſtly expect and ſhould not be denyed before our disbanding, conſidering alſo the ſtrange unheard of, and unuſuall way of disbanding us a part one Regiment from another contrary to the examples of other Armies, disban<g ref="char:EOLhyphen"/>ding in this kingdome: which poſture renders us ſuſpiſious to the kingdome to whom for ſome of our Accompts (though humble and iuſt) we have already been declared e<g ref="char:EOLhyphen"/>nemies, and to whom (for ought we know) the reſt of our doing, may be preſented with the ſame conſtiructions.</p>
+            <p>We your Petitioners humbly beſeech your Excellencie, you would be pleaſed to appoint a Randezvouze ſpeedily for the Army, and alſo to uſe your utmoſt en<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eavours that it be not disbanded, before our <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad and preſſing grievances be heard and fully redreſſed; which if not done before diſ<g ref="char:EOLhyphen"/>banding<g ref="char:punc">▪</g> wee humbly conceive we ſhall be enforced upon many inconvenienc<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, which will (of neceſſity) ariſe, when we (though unwilling) ſhall be neceſſitated (for avoyding of deſtruction like to fall or the whole Army, if not prevent<g ref="char:EOLhyphen"/>ed) to do ſuch things our ſelves which if your Excellencie (out of your wiſdome and prudence) ſhall prevent, by granting our juſt deſires in a way of Order we ſhall abun<g ref="char:EOLhyphen"/>dantly <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>joyce in it, and be (with cheerfulneſſe) enabled by it to ſubſcribe our ſelves,</p>
+            <closer>
+               <signed>
+                  <hi>Your Excellencies and the Kingdomes innocent and faithfull ſervants, whoſe names are hereunto annexed, being Agi<g ref="char:EOLhyphen"/>tators in behalf of the ſeverall Regiments.</hi>
+                  <pb facs="tcp:114194:6"/>
+                  <list>
+                     <item>Edward Sexby. Adjutators of the Generals Regime of Horſe.</item>
+                     <item>Edward Taylor. Adjutators of the Generals Regime of Horſe.</item>
+                     <item>VVilliam Allen Lieutenant Generals Regiment,</item>
+                     <item>Sam: whiting. Lieutenant Generals Regiment,</item>
+                     <item>Tho: Shepheard, Commiſſary Generals Regiment.</item>
+                     <item>Anth. Nickſon, Commiſſary Generals Regiment.</item>
+                     <item>Edward Twig, Colonell Fleetwoods Regiment.</item>
+                     <item>Thomas Jones, Colonell Fleetwoods Regiment.</item>
+                     <item>Thomas Kendall, Colonell Whaleyes Regiment.</item>
+                     <item>William Young, Colonell Whaleyes Regiment.</item>
+                     <item>Edward Starre, Colonell Sheffields Regiment,</item>
+                     <item>Edward Gethings Colonell Sheffields Regiment,</item>
+                     <item>John Willoughby, Colonell Butlers Regiment,</item>
+                     <item>Tobias Box, Colonell Butlers Regiment,</item>
+                     <item>Thomas Brown, Colonell Sir Robert Pyes Regiment,</item>
+                     <item>Barth W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>llock. Colonell Sir Robert Pyes Regiment,</item>
+                     <item>George Steuſon, Colonell Graves his Regiment.</item>
+                     <item>Richard Salter. Colonell Graves his Regiment.</item>
+                     <item>Nicholas Lockyer, Colonell Riches Regiment.</item>
+                     <item>John Braman, Colonell Riches Regiment.</item>
+                     <item>Edward Vaughan, Of the Generels Regiment of Foot.</item>
+                     <item>John Newſon, Of the Generels Regiment of Foot.</item>
+                     <item>Robert Maſon, Colonell Wallers Regiment,</item>
+                     <item>Henry Anderton, Colonell Wallers Regiment,</item>
+                     <item>Nicholas Andrews Colonell Harlowes Regiment.</item>
+                     <item>Ralph Prentice, Colonell Harlowes Regiment.</item>
+                     <item>Herbert Field Colonell Lilburnes Regiment.</item>
+                     <item>Thomas Walſton, Colonell Lilburnes Regiment.</item>
+                     <item>Edward Garn, Colonel Hewſons Regiment.</item>
+                     <item>Daniel Hincksman Colonel Hewſons Regiment.</item>
+                     <item>William Baker, Colonell Lambarts Regiment.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114194:7"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>IN the behalfe of the Army, I have ſome things to ſay to thee: There hath been many falſe reports made of them, con<g ref="char:EOLhyphen"/>cerning the Money and Commiſſioners that were ſent to Chel<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ford to diſband them, how that they had ſeized on the money and kept the Commiſſioners priſoners and uſed them courſely: But how falſe this is, the Commiſſioners themſelves can teſtifie, and the city of London, that with their owne eyes have ſeen the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Commiſſioners ſafely returned again; and I hope that the just and honeſt dealing of this Army, not only in this, but in all other of ther actions, will in time open all the Kingdomes Eyes, to ſee the reality of their intentions, that they mind not themſelves, but the good of the Parliament and Kingdome, which will be ſufficient to ſtop the wide <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Envie it ſelfe that hath coſt ſo many falſe asperſions on them.</p>
+            <closer>
+               <signed>So I reſt, thine and the Kingdoms ſervant, E, C. Lieutenant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
